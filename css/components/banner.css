@@ -1,0 +1,20 @@
+.banner{
+	background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.2) 50%), url("https://media.istockphoto.com/id/1251547964/fr/vectoriel/illustration-dessin%C3%A9e-%C3%A0-la-main-diy.jpg?s=612x612&w=0&k=20&c=sxcFN7gjLuSofz4MNNUvo4Z8zuHJhYf1TSFY2Zd9BO8=");
+	color: yellow;
+	padding: 150px 0px;
+	background-color: cover;
+	background-position: center;
+}
+
+.banner h1{
+	font-size: 90px;
+	color: yellow;
+}
+
+.banner h2{
+	font-size: 80px;
+	font-weight: lighter;
+	opacity: 1;
+	margin-bottom: 40px;
+	color: white;
+}
